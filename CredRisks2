@@ -1,0 +1,33 @@
+#Ci/cd 
+Token: abc123xyz456
+
+#WebhookUrls
+https://webhook.site/token/1234567890
+
+#a PostgreSQL connection string 
+postgresql://username:password@hostname:port/database
+
+#JWT tokens
+JWT:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+
+#OAuth tokens
+Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+
+#RSA-Private key
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEAx0E/qNsj+VnSCuGKfMgYnnJghvCn+TJwGWwQFzDQFWJvFk9
+rve1+3qZJUtpZvUfA6duwAKKrJ8W6d11l6BmQ9UNpj+Hy8ZrExBZvdympU6Lwly6
+8FeGXTcMvR+9XVHsOj8N7VJ0gGyC7/AMLOwH8zDKNu/MvHzBBiX9CtMTAt8EFfhZ
+roF1xGn1quJHdx8o7yEAnBf5oBl9nEpul9GmcZS5t5a5wd2vlwOrh1q3y4yl4vP9
+0tIcCfNQ8apFZKjzCD/D23zj7khngP6ZzNl7tbwmKvpX9x/kGXuyrv+z1/VPH2RT
+A6jTSldhZnDLzZcb3sUysf6U9VxUxh6b+bVgYwIDAQABAoIBADTJi89Tn0vJgN/c
+9yH4Ll4tmNT3CE0YqsW8eNMP1BZvgS71vQ1i5Wt9o60aGYEFy5Ow/vCcOo+N8ax0
+zsyfCmMPaIvH8R+LCOg4jFpL4nYq3vg+SmCjzS2DehZ05A/j2Q86EnleWlB/+ITe
+5L/kBUPPT8p85f+lGxrZz1jZvyiSR7XfnKjyfAr82+w1O6E1Q2jKm0mP+vzZgI6U
+q3h9+f6rq1fu6usyzoBIVHj7iRzNlLEr7f0T6hKs3uU6MvoUx2g+hcdI+Nk7nR+y
+GJf7rIzZTfjsFvSCXjKzfTuDbC1NN6yzyE7MQKAtfrORDE/joZuGILZD+ZOQ9tW5
+mwwMjKUCgYEA+klp8oCxgxE0+x1kKzMGJslgs9Ic+4ps4K0gjiN0q3w
+
+
+#linkedin-apikey
+linkedin_api_key = 'abcdefghijklmnop'
