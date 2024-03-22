@@ -37,3 +37,8 @@ glpat-ABCDEFGHIJKLM12345
 
 #slack token
 token :xoxb-0123456789ABCDEFGHIJKLM
+
+#gitlabtoken
+glpat-Ubnyasc4dQtnewz92_rg
+
+
