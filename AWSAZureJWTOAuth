@@ -11,13 +11,6 @@ Client Secret: [some-secret-value]
 
 Tenant ID: 01234567-89ab-cdef-0123-456789abcdef
 
-#JWT Tokens
-
-Header: {"alg": "HS256", "typ": "JWT"}
-
-Payload: {"sub": "1234567890", "name": "John Doe", "iat": 1516239022}
-
-Signature: SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
 
 #Oauth tokens
 
