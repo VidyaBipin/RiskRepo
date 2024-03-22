@@ -1,7 +1,7 @@
 #AWS keys
 
 Access key: AKIAIOSFODNN7EXAMPLE
-Access key: AIDAJKXCLF8OEXAMPLE
+access_key: AIDAJKXCLF8OEXAMPLE
 
 
 AWS_Secret_Access_Key : 'TmV2ZXIgYW5kIEhhd2tpbmcgYXJvdW5kIGEgdGVzdCBkZXZlbG9wbWVudCBzZWNyZXQga2V5'
