@@ -35,3 +35,4 @@ function searchProducts(keyword) {
         client.end();
     });
 }
+//This example demonstrates an error-based SQL injection vulnerability where the attacker leverages error messages to perform destructive actions on the database.
